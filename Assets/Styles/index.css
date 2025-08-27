@@ -1,0 +1,35 @@
+/* Elements Selector
+
+p {
+    color: blue;
+    font-size: 20px;
+}
+/** ID Selector 
+#footer-p {
+    font-size: 15px;
+    color:yellow
+}
+
+/** Class Selector 
+.title {
+    font-size: 35px;
+    font-weight: 800;
+    text-decoration: solid;
+}
+*/
+
+html, body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+header {
+    border-bottom: 1px solid #ddd;
+    padding: 20px;
+}
+
+nav a {
+    margin: 0%;
+}
