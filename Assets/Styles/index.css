@@ -24,6 +24,11 @@ html, body {
     margin: 0%;
 
 }
+h1 {
+    font-size: 20px;
+    text-decoration: underline;
+    padding: 0 10px;
+}
 
 header {
     border-bottom: 1px solid #ddd;
@@ -31,5 +36,13 @@ header {
 }
 
 nav a {
-    margin: 0%;
+    margin: 0 10px;
+}
+
+.nav, .main {
+    max-width: 1250px;
+    margin: 0 auto;
+}
+.main {
+    padding: 0 20px;
 }
